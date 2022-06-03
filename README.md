@@ -5,7 +5,7 @@
 
 ## GO TO NETLIFY ➡ https://04checkoutform.netlify.app/
 
-<p><img align="center" alt="gif" src="./images/Project-04-Checkout-Form.gif" width="500" height="320" /></p>
+<p><img align="center" alt="gif" src="./Images/Project-04-Checkout-Form.gif" width="500" height="320" /></p>
 
 Purpose of the this project is to write a code that make a checkout form.
 
