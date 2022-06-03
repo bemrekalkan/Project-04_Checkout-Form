@@ -21,10 +21,6 @@ At the end of the this project, students will be able to;
 
 - Write a code that creates a checkout form.
 
-- Create a checkout page following the design.
-
-![Form](checkout.png)
-
 - Functionally similar to this: [Form](https://aaron-clarusway.github.io/form/)
 
 * User story;
